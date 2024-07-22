@@ -154,6 +154,7 @@ def main():
 	startTime = time.time()
 	old_time = time.time()
 	time.sleep(0.1)
+	
 	try:
 		while True:
 				
